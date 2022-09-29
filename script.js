@@ -10,8 +10,8 @@ function tampilkanList(){
     var a = JSON.parse(testing);
     if(a){
         kosong = a;
-    }
-    // console.log(`a = ${a}`);
+    }x
+    // console.log(`a = ${a}`)
     // console.log(`a = ${a[0].nama}`);
 
     // for (let i = 0; i < a.length; i++) {
