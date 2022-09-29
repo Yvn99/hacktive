@@ -12,7 +12,7 @@ function tampilkanList(){
         kosong = a;
     }x
     // console.log(`a = ${a}`)
-    // console.log(`a = ${a[0].nama}`);
+    // console.log(`a = ${a[0].nama}`)
 
     // for (let i = 0; i < a.length; i++) {
     //     var btnHapus = "<a href='#' onclick='hapusList("+i+")'>Hapus</a>";
